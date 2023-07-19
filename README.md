@@ -11,13 +11,13 @@
 <h2 align="center">About me</h2>
 
 ```JavaScript
-    class quooctrangg {
-        constructor(name, age, gender, email, address){
-            this.name = "Nguyễn Quốc Trạng"
-		    this.age = "2002"
-            this.gender = "Male"
-		    this.email = "quooctrangg@gmail.com"
-            this.address = "Cần Thơ, Việt Nam"
+class quooctrangg {
+	constructor(name, age, gender, email, address){
+            	this.name = "Nguyễn Quốc Trạng"
+		this.age = "2002"
+            	this.gender = "Male"
+		this.email = "quooctrangg@gmail.com"
+            	this.address = "Cần Thơ, Việt Nam"
       }
     }
 ```
