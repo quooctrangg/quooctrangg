@@ -27,8 +27,8 @@ class quooctrangg {
     	<img src="https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript"/>
 	<img src="https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript"/>
     	<img src="https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js"/>
-    	<img src="https://img.shields.io/badge/Expressjs-black?style=flat-square&logo=Express"/>
-   	<img src="https://img.shields.io/badge/Nestjs-black?style=flat-square&logo=nestjs"/>  
+    	<img src="https://img.shields.io/badge/Expressjs-black?style=flat-square&logo=Express&logoColor=61DAFB"/>
+   	<img src="https://img.shields.io/badge/Nestjs-black?style=flat-square&logo=nestjs&logoColor=E0234E"/>  
     	<img src="https://img.shields.io/badge/Vuejs-black?style=flat-square&logo=Vue.js&logoColor=006600"/>
     	<img src="https://img.shields.io/badge/Mongodb-black?style=flat-square&logo=mongodb"/>
    	<img src="https://img.shields.io/badge/Tailwindcss-black?style=flat-square&logo=tailwindcss"/>
