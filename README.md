@@ -18,8 +18,8 @@ class quooctrangg {
         	this.gender = "Male"
 		this.email = "quooctrangg@gmail.com"
         	this.address = "Cần Thơ, Việt Nam"
-      }
-    }
+	}
+}
 ```
 
 <h3 align="center">Tech Stack</h3>
